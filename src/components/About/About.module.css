@@ -45,8 +45,8 @@
   padding: 25px;
   background-image: linear-gradient(
     90deg,
-    rgba(165, 215, 232, 0.42) 0%,
-    rgba(255, 255, 255, 0) 100%
+    rgba(223, 165, 232, 0.42) 0%,
+    rgba(55, 18, 59, 0) 100%
   );
   background-size: 0 100%;
   background-repeat: no-repeat;
@@ -64,6 +64,11 @@
 
 .aboutItem p {
   font-size: 25px;
+}
+
+.iconImage {
+  width: 50px; /* Set the width as needed */
+  height: 50px; /* Set the height as needed */
 }
 
 @media screen and (max-width: 830px) {

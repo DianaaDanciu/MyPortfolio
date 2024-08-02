@@ -11,7 +11,8 @@ export const About = () => {
                 <li className={styles.aboutItem}>
                     <img
                         src={getImageURL("about/cursorIcon.png")}
-                        alt="Cursor icon">
+                        alt="Cursor icon"
+                        className={styles.iconImage}>
                     </img>
                     <div className={styles.aboutItemText}>
                         <h3>Frontend Developer</h3>
@@ -19,7 +20,11 @@ export const About = () => {
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={getImageURL("about/serverIcon.png")} alt="Server icon"></img>
+                    <img
+                        src={getImageURL("about/cursorIcon.png")}
+                        alt="Cursor icon"
+                        className={styles.iconImage}>
+                    </img>
                     <div className={styles.aboutItemText}>
                         <h3>Backend Developer</h3>
                         <p>I have experience building fast and optimized back-end systems and APIs.
@@ -27,7 +32,11 @@ export const About = () => {
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={getImageURL("about/uiIcon.png")} alt="UI icon"></img>
+                    <img
+                        src={getImageURL("about/cursorIcon.png")}
+                        alt="Cursor icon"
+                        className={styles.iconImage}>
+                    </img>
                     <div className={styles.aboutItemText}>
                         <h3>University</h3>
                         <p>I graduated UBB Facultatea de Matematica si Informatica, Bachelor of Computer Science (English Section), 2021-2024.
