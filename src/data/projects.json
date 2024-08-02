@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Recruitment Platform",
+      "imageSrc": "projects/recruit.png",
+      "description": "This recruitment platform is a web-based application enhancing hiring for companies and job seekers. It includes AI based skill quizzes, a CV parser, an AI chatbot, and a job search system.",
+      "skills": ["Python", "Django", "RESTful API", "AI Integration", "JavaScript", "React", "CSS", "Html"],
+      "source": "https://github.com/DianaaDanciu/RecruitApp"
+    },
+    {
+      "title": "Recipe Management App",
+      "imageSrc": "projects/recipes.jpeg",
+      "description": "A mobile app using React Native and Expo, with a SQLite database. It lets users manage recipes and uses React's Context API for state managements. Features include user-friendly interface, asynchronous database operations, and React Navigation support.",
+      "skills": ["React Native", "SQLite", "Expo"],
+      "source": "https://github.com/DianaaDanciu/RecipesMobileApp"
+    },
+    {
+      "title": "Hotel Reservations",
+      "imageSrc": "projects/project.png",
+      "description": "A RESTful API for hotel management. It features endpoints for retrieving hotel lists, finding nearby hotels, checking room availability, booking, and modifying reservations, and leaving feedback.",
+      "skills": ["JavaScript", "Node.js", "Express.js"],
+      "source": "https://github.com/DianaaDanciu/HotelReservations"
+    }
+  ]

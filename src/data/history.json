@@ -1,0 +1,39 @@
+[
+    {
+        "role": "Python Internship",
+        "organisation": "Spyhce",
+        "startDate": "3rd July, 2023",
+        "endDate": "28th July, 2023",
+        "experiences": [
+            "Working in a small team alongside other front-end and back-end developers.",
+            "Building an interactive web application with high traffic, high performance, and enhanced security."
+        ],
+        "imageSrc": "history/spyhce.png"
+    },
+    {
+        "role": "Junior Python Developer",
+        "organisation": "Spyhce",
+        "startDate": "4th September, 2023",
+        "endDate": "4th December, 2023",
+        "experiences": [
+            "Developing and maintaining Python applications",
+            "Collaborating with senior developers to design, test, and implement software solutions",
+            "Optimizing existing code",
+            "Participating in the entire software development cycle, improving my skills in Python, Django, Bitbucket, and Jira."
+        ],
+        "imageSrc": "history/spyhce.png"
+    },
+    {
+        "role": "JavaScript Intern",
+        "organisation": "Steelcase",
+        "startDate": "1st July, 2024",
+        "endDate": "1st October, 2024",
+        "experiences": [
+            "Developed and customized scripts using ServiceNow's libraries.",
+            "Enhanced platform functionality and streamlined workflows.",
+            "Strengthened JavaScript skills.",
+            "Deepened understanding of the ServiceNow ecosystem."
+        ],
+        "imageSrc": "history/steelcase.png"
+    }
+]
