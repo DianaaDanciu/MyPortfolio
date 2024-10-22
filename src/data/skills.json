@@ -6,14 +6,34 @@
     {
         "title": "Java",
         "imageSrc": "skills/java.png"
-      },
+    },
+    {
+      "title": "C#",
+      "imageSrc": "skills/csharp.png"
+    },
     {
         "title": "Django",
         "imageSrc": "skills/django.png"
     },
     {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "ASP.NET",
+      "imageSrc": "skills/net.png"
+    },
+    {
+      "title": "Spring",
+      "imageSrc": "skills/spring.png"
+    },
+    {
         "title": "Angular",
         "imageSrc": "skills/angular.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
     },
     {
       "title": "HTML",
@@ -24,15 +44,20 @@
       "imageSrc": "skills/css.png"
     },
     {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
-    },
-    {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Sql",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "skills/aws.png"
+    },
+    {
+      "title": "Postman",
+      "imageSrc": "skills/postman.png"
     }
+
   ]

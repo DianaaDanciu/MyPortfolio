@@ -7,8 +7,15 @@
       "source": "https://github.com/DianaaDanciu/RecruitApp"
     },
     {
+      "title": "Expenses Manager",
+      "imageSrc": "projects/expenses.png",
+      "description": "This expenses manager app is a web-based application for managing expenses, authorization and authentification are also implemented.",
+      "skills": ["ASP.NET", "Angular", "JWT", "Angular Material"],
+      "source": "https://github.com/DianaaDanciu/Expenses-Manager"
+    },
+    {
       "title": "Recipe Management App",
-      "imageSrc": "projects/recipes.jpeg",
+      "imageSrc": "projects/recipes.png",
       "description": "A mobile app using React Native and Expo, with a SQLite database. It lets users manage recipes and uses React's Context API for state managements. Features include user-friendly interface, asynchronous database operations, and React Navigation support.",
       "skills": ["React Native", "SQLite", "Expo"],
       "source": "https://github.com/DianaaDanciu/RecipesMobileApp"
@@ -19,5 +26,26 @@
       "description": "A RESTful API for hotel management. It features endpoints for retrieving hotel lists, finding nearby hotels, checking room availability, booking, and modifying reservations, and leaving feedback.",
       "skills": ["JavaScript", "Node.js", "Express.js"],
       "source": "https://github.com/DianaaDanciu/HotelReservations"
+    },
+    {
+      "title": "Employees Manager App",
+      "imageSrc": "projects/employees.png",
+      "description": "This employees manager app is a web-based application for managing employees.",
+      "skills": ["Java", "Spring", "Angular"],
+      "source": "https://github.com/DianaaDanciu/EmployeesManager"
+    },
+    {
+      "title": "Banking Problem",
+      "imageSrc": "projects/project.png",
+      "description": "This project simulates a simplified banking system, allowing account holders to manage different types of accounts.",
+      "skills": ["Java"],
+      "source": "https://github.com/DianaaDanciu/BankingProblem"
+    },
+    {
+      "title": "Multilingual Chat",
+      "imageSrc": "projects/chat.png",
+      "description": "This multilingual chat is a group project which is a chatroom that translates messages in real time.",
+      "skills": ["Python", "JavaScript", "Flask", "React", "AI Integration"],
+      "source": "https://github.com/MogageNicolae/RDHackaton"
     }
   ]

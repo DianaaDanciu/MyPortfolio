@@ -15,8 +15,20 @@ export const About = () => {
                         className={styles.iconImage}>
                     </img>
                     <div className={styles.aboutItemText}>
+                        <h3>University</h3>
+                        <p>I graduated UBB Facultatea de Matematica si Informatica, Bachelor of Computer Science (English Section), 2021-2024.
+                        </p>
+                    </div>
+                </li>
+                <li className={styles.aboutItem}>
+                    <img
+                        src={getImageURL("about/cursorIcon.png")}
+                        alt="Cursor icon"
+                        className={styles.iconImage}>
+                    </img>
+                    <div className={styles.aboutItemText}>
                         <h3>Frontend Developer</h3>
-                        <p>I'm a frontend developerwith experience in building responsive and optimized sites.</p>
+                        <p>I'm a frontend developer with experience in building responsive and optimized sites.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
@@ -28,18 +40,6 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Backend Developer</h3>
                         <p>I have experience building fast and optimized back-end systems and APIs.
-                        </p>
-                    </div>
-                </li>
-                <li className={styles.aboutItem}>
-                    <img
-                        src={getImageURL("about/cursorIcon.png")}
-                        alt="Cursor icon"
-                        className={styles.iconImage}>
-                    </img>
-                    <div className={styles.aboutItemText}>
-                        <h3>University</h3>
-                        <p>I graduated UBB Facultatea de Matematica si Informatica, Bachelor of Computer Science (English Section), 2021-2024.
                         </p>
                     </div>
                 </li>
